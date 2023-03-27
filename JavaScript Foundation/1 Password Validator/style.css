@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body {
+    background-color: rgb(106, 36, 203);
+    height: fit-content;
+}
+.heading {
+    text-align: center;
+    line-height: 200px;
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.passbox {
+    background-color: #b855c9;
+    padding: 30px 30px;
+    text-align: center;
+    font-size: 30px;
+}
+.button {
+    
+    align-items: center;
+    text-align: center;
+    padding: 12px 20px;
+    background-color: #9c32d1;
+    font-family: "Red Rose";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #ffffff;
+    cursor: pointer;
+    display: flex;
+    margin: auto;
+}
